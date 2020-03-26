@@ -1,1 +1,3 @@
 Este es el archivo de text llamado historia
+
+dentro del curso de git
