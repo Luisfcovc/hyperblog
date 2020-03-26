@@ -1,3 +1,5 @@
 Este es el archivo de text llamado historia
 
-dentro del curso de git
+dentro del curso de git y github
+
+en platzi
